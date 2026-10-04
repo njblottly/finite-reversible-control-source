@@ -1,0 +1,20 @@
+{
+  "finite_reversible_control.tex": "d523a87e272d94ca5580a559fc1cf3728032e4c1f0a5471e83f9b0a93e122e9d",
+  "finite_reversible_control.pdf": "d5217a264670778760c604811b429452393e9ec26619097849a6e2956229ab87",
+  "README.md": "214cc577a0f3b51b99a360803c6e91e92056b65627ddcfa6fe805c9655b11249",
+  "certify_catalogue.py": "b716c1b8e71fa6cd563ca1d94ea6cec0e3af23edb6ea85b0aff2433e265611b5",
+  "verify_results.py": "66a8034b4bd7e86aa9692ee3c2f765d72e05437abac370558d5f64e0b7a85560",
+  "generate_figures.py": "9da892221b6ed26f088e7c5defc9c017a49b1a1bc99a2eb6850d6b170e5da3c5",
+  "figures/joint_test_geometry.pdf": "4c9e2b1a96953150cde4f8bf61adcd01bc99399cf924cffdf692cd2233ac7b63",
+  "figures/repeated_horizon.pdf": "a0deb7f569e4dcd93e2b2ec2470aaa549c731418755a57e9bfb5f31388ffa380",
+  "figures/sampling_power.pdf": "f50a3744a3b1b69cf11e7247f961aaa80617ab7db6553f6a1abd5955610e9033",
+  "figures/joint_test_geometry.png": "ca20e3c288d24f2cdc5574a79c2d5a8ac96cfe3d671063f291a0ed4904e1fbd3",
+  "figures/repeated_horizon.png": "88e5bff5378e3c699b2931bdafeec0e12857873c9b52e8c84b68ef2559087024",
+  "figures/sampling_power.png": "f6ac31d189b71fec60c711aa09f1ddba173ded4f3dd0d00bef3ed6e71070ef04",
+  "data/catalogue_geometry.json": "c686411d735a450dc804062356d4e1c0fb220174166af6169787965f4e14c5d6",
+  "data/repeated_witness.json": "853ba42100b225f3f0aee6295b48a64e1c5523eba6eee16678fdd0269eb7d4e6",
+  "data/length12_feasible.json": "21192acf695d01443f748b71217a04f7e8a0fa83727e9bb6b43c280d14224fab",
+  "data/verification_report.json": "5485f584e083eeb33a340159cebe07b09f9e53a96176593ac27289e32c0062af",
+  "data/verification_log.txt": "fc658ea241aae6bd946bf4dceb381157768b7be5f65230ee2ff8924dd416268f",
+  "data/sampling_experiment.json": "242cb2e149133ce406e4279e0780db86d2c445285a3d1f306944240d3ce0b954"
+}

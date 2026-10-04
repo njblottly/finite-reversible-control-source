@@ -1,0 +1,51 @@
+{
+  "seed": 20261003,
+  "replications_per_setting": 20000,
+  "alpha": 0.05,
+  "numpy_version": "2.3.5",
+  "matplotlib_version": "3.10.8",
+  "rows": [
+    {
+      "shots_per_circuit": 25,
+      "confidence_radius": 0.29604143746015965,
+      "quantum_rejection_rate": 0.71805,
+      "identity_rejection_rate": 0.0032,
+      "shift_rejection_rate": 0.0042
+    },
+    {
+      "shots_per_circuit": 50,
+      "confidence_radius": 0.2093329079402921,
+      "quantum_rejection_rate": 0.99285,
+      "identity_rejection_rate": 0.00265,
+      "shift_rejection_rate": 0.00265
+    },
+    {
+      "shots_per_circuit": 100,
+      "confidence_radius": 0.14802071873007983,
+      "quantum_rejection_rate": 1.0,
+      "identity_rejection_rate": 0.0024,
+      "shift_rejection_rate": 0.0032
+    },
+    {
+      "shots_per_circuit": 200,
+      "confidence_radius": 0.10466645397014605,
+      "quantum_rejection_rate": 1.0,
+      "identity_rejection_rate": 0.0038,
+      "shift_rejection_rate": 0.0048
+    },
+    {
+      "shots_per_circuit": 400,
+      "confidence_radius": 0.07401035936503991,
+      "quantum_rejection_rate": 1.0,
+      "identity_rejection_rate": 0.00375,
+      "shift_rejection_rate": 0.0036
+    },
+    {
+      "shots_per_circuit": 800,
+      "confidence_radius": 0.05233322698507303,
+      "quantum_rejection_rate": 1.0,
+      "identity_rejection_rate": 0.00305,
+      "shift_rejection_rate": 0.0033
+    }
+  ]
+}

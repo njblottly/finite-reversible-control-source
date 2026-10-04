@@ -1,0 +1,39 @@
+{
+  "python": "3.12.14",
+  "platform": "Linux-6.18.44-x86_64-with-glibc2.39",
+  "four_frame": {
+    "allowed_tables": [
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      [
+        1,
+        2,
+        3,
+        0
+      ]
+    ],
+    "individual_radius": 0.1464466094067262,
+    "shared_radius": 0.3535533905932738,
+    "mixed_table_radius": 0.10355339059327379
+  },
+  "repeated": {
+    "nodes": 41595,
+    "hall_rejections": 6565,
+    "band_rejections": 4620,
+    "injection_rejections": 11854,
+    "max_depth": 192
+  },
+  "all_words_12": {
+    "words_checked": 8190,
+    "max_error": 0.30177669529663687
+  },
+  "elapsed_seconds": 2.539435386657715,
+  "source_sha256": {
+    "verify_results.py": "66a8034b4bd7e86aa9692ee3c2f765d72e05437abac370558d5f64e0b7a85560",
+    "certify_catalogue.py": "b716c1b8e71fa6cd563ca1d94ea6cec0e3af23edb6ea85b0aff2433e265611b5"
+  }
+}
